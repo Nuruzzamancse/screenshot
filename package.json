@@ -1,0 +1,15 @@
+{
+  "name": "screenshot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nuruzzaman",
+  "license": "ISC",
+  "dependencies": {
+    "chrome-remote-interface": "^0.26.1",
+    "minimist": "^1.2.0"
+  }
+}
